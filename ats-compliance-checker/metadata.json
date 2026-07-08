@@ -1,0 +1,6 @@
+{
+  "name": "ATS Compliance Checker",
+  "description": "An AI-powered cross-platform ATS resume scanner, scorer, and domain-specific builder with professional PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
